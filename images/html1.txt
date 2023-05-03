@@ -1,0 +1,163 @@
+ <div class="foot">
+    <h2 class="h2-wel"> featured product</h2>
+    <div class="line-wel"></div>
+        <div class="span-1">
+            <span>new car</span>
+            <span>study table </span>
+            <span>used car</span>
+            <span>car show</span>
+        </div>
+    <div class="foot-info">
+
+         
+        <footer>
+            <div class="front">
+                <div class="div-inf">
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <p>product car</p>
+                    <p>15000$</p>
+            </div>
+            </div>
+            <div class="back">
+                 <div class="bord">
+                    <i class="fa-brands fa-facebook"></i>
+                 <i class="fa fa-search fa-2x"></i>
+                 <i class="fa-brands fa-linkedin-in"></i>
+                 <i class="fa-brands fa-instagram"></i>
+                 </div>
+            </div>
+              
+         </footer>
+          
+    </div>
+    <div class="foot-info">
+        <footer>
+            <div class="front front-1">
+                <div class="div-inf">
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <p>product car</p>
+                    <p>450000$</p>
+            </div>
+            </div>
+            <div class="back back-1">
+                <div class="bord">
+                   <i class="fa-brands fa-facebook"></i>
+                <i class="fa fa-search fa-2x"></i>
+                <i class="fa-brands fa-linkedin-in"></i>
+                <i class="fa-brands fa-instagram"></i>
+                </div>
+           </div>
+              
+         </footer>
+          
+    </div>
+    <div class="foot-info">
+        <footer>
+            <div class="front front-2">
+                <div class="div-inf">
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <p>product car</p>
+                    <p>200000$</p>
+            </div>
+            </div>
+            <div class="back back-2">
+                <div class="bord">
+                   <i class="fa-brands fa-facebook"></i>
+                <i class="fa fa-search fa-2x"></i>
+                <i class="fa-brands fa-linkedin-in"></i>
+                <i class="fa-brands fa-instagram"></i>
+                </div>
+           </div>
+              
+         </footer>
+          
+    </div>
+    <div class="foot-info">
+        <footer>
+            <div class="front front-3">
+                <div class="div-inf">
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <p>product car</p>
+                    <p>250000$</p>
+            </div>
+            </div>
+            <div class="back back-3">
+                <div class="bord">
+                   <i class="fa-brands fa-facebook"></i>
+                <i class="fa fa-search fa-2x"></i>
+                <i class="fa-brands fa-linkedin-in"></i>
+                <i class="fa-brands fa-instagram"></i>
+                </div>
+           </div>
+              
+         </footer>
+          
+    </div>
+    <div class="foot-info">
+        <footer>
+            <div class="front front-4">
+                <div class="div-inf">
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <p>product car</p>
+                    <p>250000$</p>
+            </div>
+            </div>
+            <div class="back back-4">
+                <div class="bord">
+                   <i class="fa-brands fa-facebook"></i>
+                <i class="fa fa-search fa-2x"></i>
+                <i class="fa-brands fa-linkedin-in"></i>
+                <i class="fa-brands fa-instagram"></i>
+                </div>
+           </div>
+              
+         </footer>
+          
+    </div>
+    <div class="foot-info">
+        <footer>
+            <div class="front front-5">
+                <div class="div-inf">
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <i class="fa-regular fa-star"></i>
+                    <p>product</p>
+                    <p>350000$</p>
+            </div>
+            </div>
+            <div class="back back-5">
+                <div class="bord">
+                   <i class="fa-brands fa-facebook"></i>
+                <i class="fa fa-search fa-2x"></i>
+                <i class="fa-brands fa-linkedin-in"></i>
+                <i class="fa-brands fa-instagram"></i>
+                </div>
+           </div>
+              
+         </footer>
+          
+    </div>
+     
+  </div>
